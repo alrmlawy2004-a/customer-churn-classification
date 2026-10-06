@@ -8,4 +8,4 @@ Use a Python virtual environment. Install `pip install -r requirements.txt`, lau
 
 ## Scope and limitations
 
-An exploratory notebook. Imputation currently happens before the split, which limits interpretation of the evaluation. No deployed service or newly verified score is claimed.
+An exploratory notebook. Missing-value imputation fits the training partition only. No deployed service or newly verified score is claimed.
